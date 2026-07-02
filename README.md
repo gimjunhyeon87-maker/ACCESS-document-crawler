@@ -38,6 +38,7 @@ pip install selenium pandas openpyxl
 
 ## 파일 구조
 
+```
 ACCESS-document-crawler/
 ├── crawler/
 │   ├── main.py           # 메인 크롤러
@@ -47,3 +48,4 @@ ACCESS-document-crawler/
 ├── config.py             # 케이스 번호, 경로 설정
 ├── requirements.txt
 └── README.md
+```
