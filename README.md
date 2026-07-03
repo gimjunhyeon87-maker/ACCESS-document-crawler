@@ -49,3 +49,5 @@ ACCESS-document-crawler/
 ├── requirements.txt
 └── README.md
 ```
+
+> 본 프로젝트는 실제 업무에서 직접 설계·구현한 자동화 스크립트입니다.
