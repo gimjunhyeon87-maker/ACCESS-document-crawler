@@ -3,6 +3,12 @@
 U.S. Department of Commerce ACCESS 시스템에서 한국 관련 CVD(상계관세) 조사 문서를 
 자동으로 수집하는 Selenium 기반 크롤링 스크립트입니다.
 
+## 시연 영상
+
+[▶ 크롤러 동작 시연 영상 보기](https://drive.google.com/file/d/1B_t--t3m-u-SQSj2Ep0-0En3ckHujIox/view?usp=drive_link)
+
+> 실제 업무에서 동작한 크롤러 시연 영상입니다.
+
 ## 배경
 
 미국 상무부 ACCESS 시스템에 등록된 24개 한국 CVD 케이스(C-580-602 ~ C-580-989)의 
