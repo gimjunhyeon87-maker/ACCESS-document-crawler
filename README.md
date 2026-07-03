@@ -46,8 +46,7 @@ pip install selenium pandas openpyxl
 
 ```
 ACCESS-document-crawler/
-├── crawler/
-│   └── main.py           # 메인 크롤러 (수집·검증·메타데이터 통합)
+├── access_downloader.py  # 메인 크롤러 (수집·검증·메타데이터 통합)
 ├── requirements.txt
 └── README.md
 ```
